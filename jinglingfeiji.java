@@ -9,8 +9,9 @@ lgd咚咚咚
 无敌*/
 class jinlin{
 	public static void main(String[] args) {
-		String str ="22";
-		System.out.println(str);
+		
+		String str2 ="23";
+		System.out.println(str2);
 	}
 	
 }
